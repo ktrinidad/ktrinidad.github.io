@@ -500,7 +500,7 @@ header nav ul li {
   margin: 2px 10px 0 0;
 }
 header nav ul li a {
-  color: #888888;
+  color: #56a0d3;
   font-size: 14px;
 }
 .container {
@@ -543,7 +543,7 @@ article .post-meta a:hover {
   color: rgba(136, 136, 136, 0.5);
 }
 article .the-content a {
-  font-weight: 100;
+  font-weight: 500;
   text-decoration: none;
 }
 article .the-content p {
